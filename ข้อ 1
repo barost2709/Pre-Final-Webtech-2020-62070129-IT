@@ -39,7 +39,7 @@
       for (let i = 0; i < data.tracks.items.length; i++) {
         
         inner += '<div class="col-4">\
-                    <div class="card" style="width: 19rem;">\
+                    <div class="card" style="width: 20rem;">\
                       <img class="card-img-top" src="' + data.tracks.items[i].album.images[0].url + '" alt="Card image cap">\
                       <div class="card-body">\
                         <h5 class="card-title"><br>' + data.tracks.items[i].album.name + '</h3>\
