@@ -19,7 +19,7 @@
   <br><br>
   <div class="container">
     <div class="row" id="card"></div>
-  </div>
+  </div><br><br>
 
   <script>
     let requestURL = 'ezquiz.json';
